@@ -1,0 +1,56 @@
+.ability-layout {
+    height: 80%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 22% 22% 22%;
+    grid-template-rows: 50% 50%;
+    gap: 25px;
+    justify-content: center;
+}
+
+.ability-item{
+    display: grid;
+    grid-template-rows: 40% 10% 50%;
+    grid-template-columns: 100%;
+    grid-template-areas:
+    "grid-image"
+    "grid-title"
+    "grid-text"
+;
+    background-color: var(--white);
+    border-radius: 45px;
+    transition: 0.2s;
+    gap: 5px;
+}
+
+.ability-item:hover{
+    transform: scale(1.05);
+}
+
+.grid-title{
+    color: var(--black);
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    font-size: var(--font-size-medium);
+}
+
+.grid-image {
+    display: flex;
+    justify-self: center;
+    padding: 15px 10px 10px 10px;
+    height: 80%;
+}
+
+.grid-image-big {
+    height: 70%;
+    align-self: flex-end;
+}
+
+.grid-text {
+    display: flex;
+    text-align: center;
+    padding: 0 10px 15px 10px;
+    color: var(--black);
+    align-items: center;
+}

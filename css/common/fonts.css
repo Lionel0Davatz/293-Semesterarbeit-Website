@@ -1,0 +1,17 @@
+.text-thin {
+    color: var(--white);
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+    font-weight: 100;
+}
+
+.text-regular {
+    color: var(--white);
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+}
+
+.text-thick {
+    color: var(--white);
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+    font-weight: 700;
+}

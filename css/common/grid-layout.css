@@ -1,0 +1,29 @@
+.grid-container {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    grid-template-columns: 1fr;
+    grid-template-rows: 100px 800px 150px;
+    grid-template-areas:
+    "nav"
+    "main-content"
+    "footer";
+}
+
+.nav {
+    grid-area: nav;
+}
+
+.main-content {
+    grid-area: main-content;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 15% 85%;
+    justify-items: center;
+    align-items: center;
+}
+
+.footer {
+    grid-area: footer;
+}

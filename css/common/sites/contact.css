@@ -1,0 +1,81 @@
+.formular-layout {
+    display: grid;
+    grid-template-columns: 48.5% 48.5%;
+    grid-template-rows: 9% 9% 33% 25% 9%;
+    grid-template-areas:
+    "first-name last-name"
+    "email email"
+    "text-box text-box"
+    "social-left social-right"
+    "send-btn send-btn"
+;
+    gap: 25px;
+    align-self: center;
+    height: 82.5%;
+    width: 60%;
+    background-color: var(--black);
+}
+
+.formular-item {
+    background-color: var(--white);
+    border-radius: 30px;
+    color: var(--black);
+}
+
+.formular-item-text {
+    padding: 7px 10px 7px 30px;
+    font-size: var(--font-size-normal);
+}
+
+.formular-first-name {
+    grid-area: first-name;
+}
+
+.formular-last-name {
+    grid-area: last-name;
+}
+
+.formular-email {
+    grid-area: email;
+}
+
+.formular-text-box {
+    grid-area: text-box;
+    font-size: var(--font-size-normal);
+    padding: 17px 30px 17px 30px;
+    resize: none;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    white-space: pre-wrap;
+    justify-content: center;
+}
+
+.formular-social-left {
+    grid-area: social-left;
+}
+
+.formular-social-right {
+    grid-area: social-right;
+}
+
+.formular-send-btn {
+    grid-area: send-btn;
+    width: 50%;
+    justify-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--font-size-medium);
+    transition: 0.2s;
+}
+
+.formular-send-btn:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+input,
+textarea,
+button {
+    all: unset;
+}

@@ -1,0 +1,2 @@
+Für den Hover Effekt beim navigation-logo, habe ich eine Farbe benutz, welche im Figma nicht dokumentiert wurde → #1c1c1c
+Bei der slideshow hat es eine scroll-bar, diese hat einem thumb mit einem hover, für den hover habe ich folgende farbe benutz →#bdbdbd

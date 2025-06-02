@@ -1,0 +1,44 @@
+.nav {
+    grid-area: nav;
+    background-color: var(--black);
+    padding: 0 3% 0 3%;
+    display: flex;
+    align-items: center;
+    gap: 2%;
+    min-height: 100px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: var(--white);
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+    font-weight: 700;
+    font-size: var(--font-size-normal);
+    transition: 0.2s;
+    width: 8.5%;
+    text-align: center;
+}
+
+.nav-link-active {
+    color: var(--white);
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+    font-weight: 100;
+}
+
+.nav-logo {
+    margin-right: auto;
+    font-size: var(--font-size-normal);
+    text-decoration: none;
+    transition: 0.2s;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.nav-logo:hover {
+    transform: scale(1.05) rotate(-3deg);
+    background-color: #1c1c1c;
+}
+
+.nav-link:hover {
+    transform: scale(1.05);
+}
