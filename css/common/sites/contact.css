@@ -79,3 +79,16 @@ textarea,
 button {
     all: unset;
 }
+
+.formular-social-right, .formular-social-left {
+    padding: 20px;
+}
+
+.social-box {
+    color: var(--black);
+}
+
+.social-box-img {
+    height: 40%;
+    position: relative;
+}

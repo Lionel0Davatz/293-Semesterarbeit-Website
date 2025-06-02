@@ -3,13 +3,14 @@
     --grey: #D9D9D9;
     --darkblue: #374657;
     --black: #000000;
-    --font-size-min: 12px;
+    --font-size-min: 11.5px;
     --font-size-mini: 15px;
     --font-size-smaller: 16px;
     --font-size-small: 17px;
     --font-size-normal: 20px;
     --font-size-medium: 25px;
     --font-size-big: 30px;
+    --font-size-bigger: 40px;
     --font-size-huge: 50px;
     --font-size-max: 70px;
 }

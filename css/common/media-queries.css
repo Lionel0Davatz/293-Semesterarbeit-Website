@@ -27,13 +27,13 @@ html, body {
 
     .nav-link {
         font-size: var(--font-size-mini);
-        width: 15%;
+        width: 22%;
     }
 
     .nav-logo {
         font-size: var(--font-size-mini);
-        margin-right: 5%;
-        width: 10%;
+        margin-right: 4%;
+        width: 7%;
     }
 
 
@@ -51,6 +51,14 @@ html, body {
     .slideshow {
         width: 80%;
     }
+
+    .card-title {
+        font-size: var(--font-size-big);
+    }
+
+    .card-text {
+        font-size: var(--font-size-normal);
+    }
     /**/
 
     /*Ability*/
@@ -60,12 +68,16 @@ html, body {
     }
 
     .ability-item {
-        grid-template-rows: 30% 10% 60%;
+        grid-template-rows: 30% 5% 65%;
     }
 
     .grid-text {
         font-size: var(--font-size-min);
         padding: 10px;
+    }
+
+    .grid-title {
+        font-size: var(--font-size-normal);
     }
 
     .grid-image {
@@ -76,6 +88,14 @@ html, body {
     /*Formular*/
     .formular-layout {
         width: 85%;
+    }
+
+    .social-box {
+        font-size: var(--font-size-min);
+    }
+
+    .social-box-title {
+        font-size: var(--font-size-normal);
     }
     /**/
 
@@ -168,6 +188,14 @@ html, body {
     /*Slideshow*/
     .slideshow {
         width: 80%;
+    }
+
+    .card-title {
+        font-size: var(--font-size-big);
+    }
+
+    .card-text {
+        font-size: var(--font-size-normal);
     }
     /**/
 
@@ -288,6 +316,10 @@ html, body {
     .slideshow {
         width: 80%;
     }
+
+    .card-title {
+        font-size: var(--font-size-big);
+    }
     /**/
 
     /*Ability*/
@@ -406,6 +438,7 @@ html, body {
     .slideshow {
         width: 80%;
     }
+
     /**/
 
     /*Ability*/
