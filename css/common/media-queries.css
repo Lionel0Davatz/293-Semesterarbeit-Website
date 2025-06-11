@@ -47,7 +47,7 @@ html, body {
     }
 
     .about-me-paragraph {
-        font-size: var(--font-size-small);
+        font-size: var(--font-size-huge);
         color: blue;
     }
     /**/
@@ -190,7 +190,7 @@ html, body {
     }
 
     .about-me-paragraph {
-        font-size: var(--font-size-small);
+        font-size: var(--font-size-max);
         color: red;
     }
     /**/
