@@ -44,6 +44,7 @@ html, body {
 
     .about-me-text-container {
         width: 80%;
+        color: blue;
     }
 
     .about-me-paragraph {
@@ -186,6 +187,7 @@ html, body {
 
     .about-me-text-container {
         width: 80%;
+        color: red;
     }
 
     .about-me-paragraph {
