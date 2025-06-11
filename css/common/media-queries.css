@@ -44,11 +44,11 @@ html, body {
 
     .about-me-text-container {
         width: 80%;
-        color: blue;
     }
 
     .about-me-paragraph {
         font-size: var(--font-size-small);
+        color: blue;
     }
     /**/
 
@@ -187,11 +187,11 @@ html, body {
 
     .about-me-text-container {
         width: 80%;
-        color: red;
     }
 
     .about-me-paragraph {
         font-size: var(--font-size-small);
+        color: red;
     }
     /**/
 
