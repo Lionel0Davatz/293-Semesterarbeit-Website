@@ -39,7 +39,7 @@ html, body {
 
     /*About Me*/
     .about-me-image {
-        height: 60%;
+        display: none;
     }
 
     .about-me-text-container {
