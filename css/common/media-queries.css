@@ -38,6 +38,10 @@ html, body {
 
 
     /*About Me*/
+    .about-me-image {
+        height: 50%;
+    }
+
     .about-me-text-container {
         width: 80%;
     }
@@ -176,6 +180,10 @@ html, body {
 
 
     /*About Me*/
+    .about-me-image {
+        height: 50%;
+    }
+
     .about-me-text-container {
         width: 80%;
     }
@@ -303,6 +311,10 @@ html, body {
 
 
     /*About Me*/
+    .about-me-image {
+        height: 50%;
+    }
+
     .about-me-text-container {
         width: 80%;
     }
@@ -425,6 +437,10 @@ html, body {
 
 
     /*About Me*/
+    .about-me-image {
+        height: 50%;
+    }
+
     .about-me-text-container {
         width: 80%;
     }
@@ -549,6 +565,10 @@ html, body {
 
 
     /*About Me*/
+    .about-me-image {
+        height: 50%;
+    }
+
     .about-me-text-container {
         width: 80%;
     }
