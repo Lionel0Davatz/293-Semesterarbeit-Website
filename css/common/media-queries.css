@@ -91,7 +91,7 @@ html, body {
 
     /*Formular*/
     .formular-layout {
-        width: 85%;
+        grid-template-columns: 46% 46%;
     }
 
     .social-box {
@@ -229,7 +229,7 @@ html, body {
 
     /*Formular*/
     .formular-layout {
-        width: 85%;
+        grid-template-columns: 46% 46%;
     }
     /**/
 
@@ -356,7 +356,7 @@ html, body {
 
     /*Formular*/
     .formular-layout {
-        width: 85%;
+        grid-template-columns: 46% 46%;
     }
     /**/
 
@@ -479,7 +479,7 @@ html, body {
 
     /*Formular*/
     .formular-layout {
-        width: 85%;
+        grid-template-columns: 46% 46%;
     }
     /**/
 
@@ -606,7 +606,7 @@ html, body {
 
     /*Formular*/
     .formular-layout {
-        width: 85%;
+        grid-template-columns: 46% 46%;
     }
     /**/
 
