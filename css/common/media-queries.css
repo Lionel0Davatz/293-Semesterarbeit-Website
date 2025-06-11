@@ -39,7 +39,7 @@ html, body {
 
     /*About Me*/
     .about-me-image {
-        width: 100%;
+        width: 60%;
     }
 
     .about-me-text-container {
@@ -47,8 +47,7 @@ html, body {
     }
 
     .about-me-paragraph {
-        font-size: var(--font-size-huge);
-        color: blue;
+        font-size: var(--font-size-small);
     }
     /**/
 
@@ -190,8 +189,7 @@ html, body {
     }
 
     .about-me-paragraph {
-        font-size: var(--font-size-max);
-        color: red;
+        font-size: var(--font-size-small);
     }
     /**/
 
