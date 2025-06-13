@@ -39,7 +39,7 @@ html, body {
 
     /*About Me*/
     .about-me-image {
-        width: 40%;
+        height: 40%;
     }
 
     .about-me-text-container {
@@ -181,7 +181,7 @@ html, body {
 
     /*About Me*/
     .about-me-image {
-        display: none;
+        width: 80%;
     }
 
     .about-me-text-container {
