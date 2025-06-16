@@ -92,6 +92,7 @@ html, body {
 
     /*Formular*/
     .formular-layout {
+        width: 90%;
         grid-template-columns: 46% 46%;
     }
 
