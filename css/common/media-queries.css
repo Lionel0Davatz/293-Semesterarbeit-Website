@@ -86,7 +86,7 @@ html, body {
     }
 
     .grid-image {
-        height: 60%;
+        height: 20%;
     }
     /**/
 
@@ -182,7 +182,8 @@ html, body {
 
     /*About Me*/
     .about-me-image {
-        width: 80%;
+        height: 40%;
+        width: 70%;
     }
 
     .about-me-text-container {
@@ -313,7 +314,8 @@ html, body {
 
     /*About Me*/
     .about-me-image {
-        height: 50%;
+        height: 40%;
+        width: 70%;
     }
 
     .about-me-text-container {
@@ -439,7 +441,8 @@ html, body {
 
     /*About Me*/
     .about-me-image {
-        height: 50%;
+        height: 40%;
+        width: 70%;
     }
 
     .about-me-text-container {
