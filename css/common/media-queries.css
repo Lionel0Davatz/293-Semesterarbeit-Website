@@ -39,8 +39,8 @@ html, body {
 
     /*About Me*/
     .about-me-image {
-        height: 20%;
-        width: 20%;
+        height: 50%;
+        width: 60%;
     }
 
     .about-me-text-container {
